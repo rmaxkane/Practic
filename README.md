@@ -1,2 +1,2 @@
-# Practic
-For eneral testing and gitflow practice
+# Practice
+For general testing and gitflow practice
